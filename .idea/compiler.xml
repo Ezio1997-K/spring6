@@ -7,10 +7,12 @@
         <sourceTestOutputDir name="target/generated-test-sources/test-annotations" />
         <outputRelativeToContentRoot value="true" />
         <module name="spring6-001-revelation" />
+        <module name="spring6-002-myspring" />
       </profile>
     </annotationProcessing>
     <bytecodeTargetLevel>
       <module name="spring6-001-revelation" target="17" />
+      <module name="spring6-002-myspring" target="17" />
     </bytecodeTargetLevel>
   </component>
 </project>
