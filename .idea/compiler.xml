@@ -6,6 +6,7 @@
         <sourceOutputDir name="target/generated-sources/annotations" />
         <sourceTestOutputDir name="target/generated-test-sources/test-annotations" />
         <outputRelativeToContentRoot value="true" />
+        <module name="spring6-005-bank" />
         <module name="spring6-003-componentscan" />
         <module name="spring6-001-revelation" />
         <module name="spring6-002-myspring" />
@@ -17,6 +18,7 @@
       <module name="spring6-002-myspring" target="17" />
       <module name="spring6-003-componentscan" target="17" />
       <module name="spring6-004-aopexam" target="17" />
+      <module name="spring6-005-bank" target="17" />
     </bytecodeTargetLevel>
   </component>
 </project>
