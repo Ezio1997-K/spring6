@@ -10,4 +10,7 @@ import com.learnspring.client.MyComponent;
  */
 @MyComponent("userBean")
 public class User {
+    public void study(){
+        System.out.println("学生学习...");
+    }
 }
