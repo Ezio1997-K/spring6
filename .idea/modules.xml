@@ -4,9 +4,9 @@
     <modules>
       <module fileurl="file://$PROJECT_DIR$/spring6-001-revelation.iml" filepath="$PROJECT_DIR$/spring6-001-revelation.iml" />
       <module fileurl="file://$PROJECT_DIR$/spring6-002-myspring/spring6-002-myspring.iml" filepath="$PROJECT_DIR$/spring6-002-myspring/spring6-002-myspring.iml" />
-      <module fileurl="file://$PROJECT_DIR$/spring6-003-componentscan.iml" filepath="$PROJECT_DIR$/spring6-003-componentscan.iml" />
       <module fileurl="file://$PROJECT_DIR$/spring6-004-aopexam.iml" filepath="$PROJECT_DIR$/spring6-004-aopexam.iml" />
       <module fileurl="file://$PROJECT_DIR$/spring6-005-bank.iml" filepath="$PROJECT_DIR$/spring6-005-bank.iml" />
+      <module fileurl="file://$PROJECT_DIR$/spring6-006-mybatisbank.iml" filepath="$PROJECT_DIR$/spring6-006-mybatisbank.iml" />
       <module fileurl="file://$PROJECT_DIR$/spring6learn.iml" filepath="$PROJECT_DIR$/spring6learn.iml" />
     </modules>
   </component>

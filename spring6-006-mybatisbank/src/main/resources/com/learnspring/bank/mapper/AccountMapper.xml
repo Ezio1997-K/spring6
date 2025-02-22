@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<!DOCTYPE mapper
+        PUBLIC "-//mybatis.org//DTD Mapper 3.0//EN"
+        "http://mybatis.org/dtd/mybatis-3-mapper.dtd">
+
+<mapper namespace="com.learnspring.bank.mapper.AccountMapper">
+
+    <insert id="insert">
+        insert into t_bank values(#{actno},#{balance})
+    </insert>
+    <update id="update">
+        update t_bank set balance=#{balance} where actno = #{actno}
+    </update>
+    <delete id="deleteByActno">
+        delete from t_bank where actno = #{actno}
+    </delete>
+    <select id="selectByActno" resultType="account">
+        select actno,balance from t_bank where actno=#{actno}
+    </select>
+    <select id="selectAll" resultType="com.learnspring.bank.pojo.Account">
+        select actno,balance from t_bank
+    </select>
+
+</mapper>
