@@ -11,6 +11,7 @@
         <option value="$PROJECT_DIR$/spring6-004-aopexam/pom.xml" />
         <option value="$PROJECT_DIR$/spring6-005-bank/pom.xml" />
         <option value="$PROJECT_DIR$/spring6-006-mybatisbank/pom.xml" />
+        <option value="$PROJECT_DIR$/spring6-007-debugAOP/pom.xml" />
       </list>
     </option>
   </component>

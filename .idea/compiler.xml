@@ -6,6 +6,7 @@
         <sourceOutputDir name="target/generated-sources/annotations" />
         <sourceTestOutputDir name="target/generated-test-sources/test-annotations" />
         <outputRelativeToContentRoot value="true" />
+        <module name="spring6-007-debugAOP" />
         <module name="spring6-005-bank" />
         <module name="spring6-006-mybatisbank" />
         <module name="spring6-003-componentscan" />
